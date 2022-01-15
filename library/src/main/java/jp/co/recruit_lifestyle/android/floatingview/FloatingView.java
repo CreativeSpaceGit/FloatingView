@@ -63,7 +63,7 @@ class FloatingView extends FrameLayout implements ViewTreeObserver.OnPreDrawList
     /**
      * 押下時の拡大率
      */
-    private static final float SCALE_PRESSED = 0.9f;
+    private static final float SCALE_PRESSED = 1.0f;
 
     /**
      * 通常時の拡大率
